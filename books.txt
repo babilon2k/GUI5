@@ -1,0 +1,6 @@
+Pilipiuk,Kuba Wedrowycz,20.00
+Pilipiuk,Oko Jelenia,20.00
+Bourdain,Kill Grill,30.99
+Pilch,Poda Mocnym Aniolem,30.99
+Piekara,Ja inkwizytor,19.99
+Archer,Gra,20.99
